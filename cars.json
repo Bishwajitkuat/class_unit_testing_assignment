@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Electro",
+    "model": "gold",
+    "price": 15,
+    "mileage": 45000,
+    "colors": ["white", "black", "yellow"],
+    "info": {
+      "comments": "no comments",
+      "powerSource": "hydrogen",
+      "consumptionPer100km": 1
+    }
+  },
+  {
+    "id": 2,
+    "name": "Electro",
+    "model": "GT",
+    "price": 123,
+    "mileage": 120000,
+    "colors": ["yellow", "green", "blue"],
+    "info": {
+      "comments": "no comments",
+      "powerSource": "hydrogen",
+      "consumptionPer100km": 6
+    }
+  },
+  {
+    "id": 3,
+    "name": "Racer",
+    "model": "XXL",
+    "price": 10,
+    "mileage": 10000,
+    "colors": ["white", "red", "orange"],
+    "info": {
+      "comments": "no comments",
+      "powerSource": "pushing",
+      "consumptionPer100km": 4
+    }
+  },
+  {
+    "id": 4,
+    "name": "Ovlov",
+    "model": "GT",
+    "price": 200,
+    "mileage": 120000,
+    "colors": ["blue", "white", "red"],
+    "info": {
+      "comments": "low emission",
+      "powerSource": "pushing",
+      "consumptionPer100km": 6
+    }
+  },
+  {
+    "id": 5,
+    "name": "Min IEco",
+    "model": "silver",
+    "price": 123,
+    "mileage": 90000,
+    "colors": ["orange", "white", "red"]
+  }
+]
