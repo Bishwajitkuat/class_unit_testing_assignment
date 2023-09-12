@@ -2,7 +2,7 @@
 
 const CarRegister = require("../CarRegister");
 // default database for car
-const cars = require("../cars.json");
+const cars = require("../datastorage.json");
 // modified database for car
 const { carsWithoutColors, carsWithoutModel } = require("../testCarsStorage");
 // test values
